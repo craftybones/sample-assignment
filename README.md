@@ -1,1 +1,2 @@
 # sample-assignment
+foo
